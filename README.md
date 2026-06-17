@@ -1,13 +1,5 @@
 🛒 Amazon Customer Reviews Sentiment Analysis
 
-"Python" (https://img.shields.io/badge/Python-3.x-blue)
-"Pandas" (https://img.shields.io/badge/Pandas-Data%20Analysis-green)
-"NLP" (https://img.shields.io/badge/NLP-TextBlob-orange)
-"Matplotlib" (https://img.shields.io/badge/Visualization-Matplotlib-red)
-"Status" (https://img.shields.io/badge/Project-Completed-brightgreen)
-
----
-
 📌 Project Overview
 
 This project focuses on analyzing customer reviews from Amazon products using Natural Language Processing (NLP) techniques. The objective is to determine whether a review expresses a Positive 😊, Negative 😞, or Neutral 😐 sentiment.
